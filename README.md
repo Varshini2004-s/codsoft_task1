@@ -1,0 +1,1 @@
+As a Web development intern at Codsoft i have created a personal portfolio to showcase my skills and projects using HTML, CSS and JavaScript. In this task i have created a portfolio with day and night theme and a contact form to contact and also i have attached my resume.
